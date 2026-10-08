@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>2025年华中科技大学824信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZhuaQ==">下载</a></td></tr>
 <tr><td>2024年华中科技大学824信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/Z5ibmppx">下载</a></td></tr>
 <tr><td>2024年青岛理工大学811信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/Z5iblphx">下载</a></td></tr>
 <tr><td>2024年陆军工程大学807信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/Z5iblphw">下载</a></td></tr>
