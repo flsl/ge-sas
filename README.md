@@ -1,6 +1,16 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>2026哈尔滨工业大学803信号+输电考研真题及答案(仅信号与系统部分).pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxaw==">下载</a></td></tr>
+<tr><td>2026年中国科学技术大学843信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxag==">下载</a></td></tr>
+<tr><td>2026年浙江大学842信号与数电考研真题及答案(仅信号与系统部分).pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxaQ==">下载</a></td></tr>
+<tr><td>2026年西安电子科技大学821信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxaA==">下载</a></td></tr>
+<tr><td>2026年西安电子科技大学811信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxZw==">下载</a></td></tr>
+<tr><td>2026年宁波大学829信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxZg==">下载</a></td></tr>
+<tr><td>2026年南京信息工程大学811信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxZQ==">下载</a></td></tr>
+<tr><td>2026年南昌大学811信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtxZA==">下载</a></td></tr>
+<tr><td>2026年江西师范大学887信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtwbQ==">下载</a></td></tr>
+<tr><td>2026年杭州电子科技大学845信号与系统考研真题及答案.pdf</td><td><a href="https://mbd.pub/o/bread/YZaVmZtwbA==">下载</a></td></tr>
 <tr><td>2026年重庆邮电大学801信号与系统考研真题及答案回忆版.docx</td><td><a href="https://mbd.pub/o/bread/YZaVmZluag==">下载</a></td></tr>
 <tr><td>2025年天津大学815信号与系统考研真题及答案回忆版.docx</td><td><a href="https://mbd.pub/o/bread/YZaVmZltZQ==">下载</a></td></tr>
 <tr><td>2025年西安理工大学810信号与系统考研真题及答案回忆版.docx</td><td><a href="https://mbd.pub/o/bread/YZaVmZltZg==">下载</a></td></tr>
